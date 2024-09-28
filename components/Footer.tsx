@@ -16,7 +16,7 @@ const Footer = () => (
             height={52}
             className="object-contain"
           />
-          <h1 className="font-poppins font-semibold mt-4">Tech Extreme 2023</h1>
+          <h1 className="font-poppins font-semibold mt-4">Tech Fest 2023</h1>
           <p className={`${styles.paragraph} mt-4 max-w-[312px] text-center`}>
             A new way to see technology.
           </p>
@@ -50,7 +50,7 @@ const Footer = () => (
 
       <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
         <p className="font-poppins font-normal text-center text-[18px] leading-[27px] ">
-          Copyright Ⓒ 2022 Gandhinagar University. All Rights Reserved.
+          Copyright Ⓒ 2024 College name. All Rights Reserved.
         </p>
 
         <div className="flex flex-row md:mt-0 mt-6">

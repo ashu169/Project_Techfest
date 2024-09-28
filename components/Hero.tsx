@@ -33,7 +33,7 @@ const Hero = () => {
           damping={1e-1}
           className="font-poppins font-semibold pl-3"
         >
-          Organized by Gandhinagar University.
+          Organized by College Name.
         </Fade>
         <Fade direction="left">
           <MainButton text="Get Started" />

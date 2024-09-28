@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className={`${styles.flexCenter} flex-col font-poppins`}>
             <Image
               src="/Logo/logo.png"
-              alt="TechExtreme"
+              alt="TechFest"
               height={52}
               width={52}
               priority={true}

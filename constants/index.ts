@@ -18,13 +18,13 @@ export const detail = [
     id: "detail-1",
     img: "/About/about_1.avif",
     content:
-      "TechXtreme is an event that is organized by Gandhinagar University, which provides a platform for young people to showcase their talents and skills. The event focuses on various areas related to technology, such as programming, artificial intelligence, machine learning, robotics, and other emerging technologies. During TechXtreme, young individuals get the chance to exhibit their abilities and demonstrate their innovative ideas in front of a large audience. They also get the opportunity to interact with other participants, share their experiences, and learn from each other.",
+      "Techfest name is an event that is organized by college name , which provides a platform for young people to showcase their talents and skills. The event focuses on various areas related to technology, such as programming, artificial intelligence, machine learning, robotics, and other emerging technologies. During Techfest, young individuals get the chance to exhibit their abilities and demonstrate their innovative ideas in front of a large audience. They also get the opportunity to interact with other participants, share their experiences, and learn from each other.",
   },
   {
     id: "detail-2",
     img: "/About/about_2.avif",
     content:
-      "TechXtreme not only helps participants to develop their technical skills but also their personal and interpersonal skills. It provides a platform for them to showcase their inner selves, their passion, and their drive towards their goals. This helps them to gain confidence, overcome stage fear, and develop their presentation and communication skills. In summary, TechXtreme is a unique event organized by Gandhinagar University that enables young people to learn and showcase their talents and abilities. It provides a platform for them to connect with other like-minded individuals and gain exposure to emerging technologies, ultimately helping them to develop their technical and personal skills. The event encourages them to think creatively, explore new ideas, and push their boundaries.",
+      "Techfest name not only helps participants to develop their technical skills but also their personal and interpersonal skills. It provides a platform for them to showcase their inner selves, their passion, and their drive towards their goals. This helps them to gain confidence, overcome stage fear, and develop their presentation and communication skills. In summary, Techfest is a unique event organized by College name that enables young people to learn and showcase their talents and abilities. It provides a platform for them to connect with other like-minded individuals and gain exposure to emerging technologies, ultimately helping them to develop their technical and personal skills. The event encourages them to think creatively, explore new ideas, and push their boundaries.",
   },
 ];
 export const detail2 = [
@@ -89,7 +89,7 @@ export const footerLinks = [
     title: "Others",
     links: [
       {
-        name: "Gandhinagar University",
+        name: "",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
